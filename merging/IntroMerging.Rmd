@@ -236,7 +236,7 @@ The files `books.csv`, `authors.csv`, and `book-authors.csv` give details about 
 
 7. Use the same join statement that you did in #4, but using **books2** rather than **books**.
 
-	#### Option #2
+#### Option #2
 The package "Lahman" contains a comprehensive baseball database with 24 different tables.
 ```{r}
 #install.packages("Lahman")
